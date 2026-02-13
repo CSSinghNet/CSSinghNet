@@ -5,7 +5,7 @@
 <br/>
 
 <h1 align="center">Chandrashekhar Singh</h1>
-<h3 align="center">Senior Software Engineer | Angular • .NET • Cloud • AI</h3>
+<h3 align="center">Senior Software Engineer | Angular | ReactJs • .NET • Cloud • AI</h3>
 
 ---
 
